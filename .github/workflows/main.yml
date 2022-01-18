@@ -16,7 +16,7 @@ jobs:
 
       - name: Commit Resume
         run: |
-          mv resume.pdf Benedict_Neo_Resume.pdf
+          mv main.pdf Benedict_Neo_Resume.pdf
           git config --global user.name "benthecoder"
           git config --global user.email "benthecoder07@gmail.com"
           git add .
