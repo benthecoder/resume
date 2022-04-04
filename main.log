@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021) (preloaded format=pdflatex 2021.9.19)  29 MAR 2022 16:08
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021) (preloaded format=pdflatex 2021.9.19)  4 APR 2022 15:36
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -411,42 +411,33 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 
 {/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 (./main.aux)
-
-Package rerunfilecheck Warning: File `main.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `main.out':
-(rerunfilecheck)             Before: FE63B587FE9854F556A73AA1082128D8;498
-(rerunfilecheck)             After:  4B5BFA4CA106524B51E54D4C9836CDAD;405.
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: 4B5BFA4CA106524B51E54D4C9836CDAD;405.
  ) 
 Here is how much of TeX's memory you used:
- 13111 strings out of 478599
- 219161 string characters out of 5854100
+ 13109 strings out of 478599
+ 219141 string characters out of 5854100
  550818 words of memory out of 5000000
- 30798 multiletter control sequences out of 15000+600000
+ 30797 multiletter control sequences out of 15000+600000
  426474 words of font info for 66 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  60i,11n,67p,391b,353s stack positions out of 5000i,500n,10000p,200000b,80000s
-pdfTeX warning (dest): name{section.5} has been referenced but does not exist
-, replaced by a fixed one
-
-{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/local/tex
-live/2021/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc}{/usr/local/te
-xlive/2021/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc}{/usr/local/tex
-live/2021/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc}</usr/local/texl
-ive/2021/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.
-pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/fontawesome5/FontAwe
-some5Free-Solid.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/bitstrea/ch
-arter/bchb8a.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/bitstrea/chart
-er/bchr8a.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/bitstrea/charter/
-bchri8a.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/
-cmsy10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/c
-msy6.pfb>
-Output written on main.pdf (1 page, 87172 bytes).
+{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/local/t
+exlive/2021/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc}{/usr/local/
+texlive/2021/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc}{/usr/local/t
+exlive/2021/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc}</usr/local/te
+xlive/2021/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regula
+r.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/fontawesome5/FontA
+wesome5Free-Solid.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/bitstrea/
+charter/bchb8a.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/bitstrea/cha
+rter/bchr8a.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/bitstrea/charte
+r/bchri8a.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmsy10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmsy6.pfb>
+Output written on main.pdf (1 page, 87092 bytes).
 PDF statistics:
- 88 PDF objects out of 1000 (max. 8388607)
- 69 compressed objects within 1 object stream
- 7 named destinations out of 1000 (max. 500000)
- 41 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 82 PDF objects out of 1000 (max. 8388607)
+ 63 compressed objects within 1 object stream
+ 6 named destinations out of 1000 (max. 500000)
+ 33 words of extra memory for PDF output out of 10000 (max. 10000000)
 
